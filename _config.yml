@@ -47,11 +47,7 @@ collections:
     order:
       - dissertation.md
       - PublicTalks.md
-      # - shortProject.md
-      # - redirect.md
-      # - project4.md
-      # - project5.md
-      # - project6.md
+      - Publications.md
 
 sass:
   sass_dir: /assets/css/_sass
