@@ -5,7 +5,6 @@ description: Researcher | Computer Science | AIST
 
 baseurl: #name of GitHub repository
 url: "https://zoenantes.github.io/ZiweiHomePage/" #custom url to be used instead of GitHub repository
-email: xuxiaowei0203@gmail.com
 
 # Pagination
 paginate: 4
