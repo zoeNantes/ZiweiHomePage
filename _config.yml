@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Ziwei XU
-description: Researcher | Computer Science | AIST
+description: Professor | Researcher 
 
 baseurl: #name of GitHub repository
 url: "https://zoenantes.github.io/ZiweiHomePage/" #custom url to be used instead of GitHub repository
@@ -44,9 +44,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - dissertation.md
-      - PublicTalks.md
       - Publications.md
+      - ResearchServices.md
+      - dissertation.md
 
 sass:
   sass_dir: /assets/css/_sass
